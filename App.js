@@ -1,4 +1,3 @@
-# Full_stack_Mca
 import React, { useState } from "react";
 const allQuestions = {
   java: [
